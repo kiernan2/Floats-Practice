@@ -1,0 +1,10 @@
+.left{
+  float: left;
+  width: 300px;
+}
+
+.right{
+  float: right;
+  width: 300px;
+  background-color: aqua;
+}
